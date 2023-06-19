@@ -1,0 +1,3 @@
+some random text file
+to test the python program
+regarding file handling
